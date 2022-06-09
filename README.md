@@ -9,6 +9,12 @@ I'd like to see a list of websites that I have saved.
 ![Landing page](./docs/domain_model_bookmark.png?raw=true "Domain Model")
 
 
+
+As a user
+I'd like to add new bookmarks to my exisitng list of bookmarks,
+So I can see a list of websites new and old that I have saved.
+
+
 -----------------------------------------------------------------------------------------------
 
 **Database Setup**
