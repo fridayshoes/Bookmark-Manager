@@ -4,22 +4,11 @@
       "/home/fridayshoes/Projects/Week4/Bookmark-Manager/spec/bookmark_spec.rb": {
         "lines": [
           1,
-          null,
-          1,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          1,
-          null,
           1,
           null,
           1,
           1,
           1,
-          null,
           null,
           null,
           1,
@@ -28,6 +17,33 @@
           null,
           1,
           null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/home/fridayshoes/Projects/Week4/Bookmark-Manager/spec/database_helpers.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
           null
         ]
       },
@@ -38,6 +54,8 @@
           1,
           1,
           1,
+          1,
+          null,
           1,
           null,
           null
@@ -75,6 +93,6 @@
         ]
       }
     },
-    "timestamp": 1654786328
+    "timestamp": 1654880409
   }
 }
